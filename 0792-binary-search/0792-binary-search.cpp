@@ -1,18 +1,23 @@
 class Solution {
 public:
-   int binarySearch(vector<int>& nums, int low, int high, int target) {
 
-    if (low > high) return -1; //Base case.
+    int binarySearch(vector<int>nums,int left,int right,int target)
+    {
+        //base condition should be at start to stop the recursion
+        if(left>right)
+            return -1;
 
-    // Perform the steps:
-    int mid = (low + high) / 2;
-    if (nums[mid] == target) return mid;
-    else if (target > nums[mid])
-        return binarySearch(nums, mid + 1, high, target);
-    return binarySearch(nums, low, mid - 1, target);
-}
+        int mid=(left+right)/2;
+        if(nums[mid]==target)
+        return mid;
+        else if(nums[mid]>target)
+        return binarySearch(nums,left,mid-1,target);
+        else
+        return binarySearch(nums,mid+1,right,target);
 
-int search(vector<int>& nums, int target) {
-    return binarySearch(nums, 0, nums.size() - 1, target);
-}
+
+    }
+    int search(vector<int>& nums, int target) {
+        return binarySearch(nums,0,nums.size()-1,target);
+    }
 };
