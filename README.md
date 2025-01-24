@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0792-binary-search) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0792-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
