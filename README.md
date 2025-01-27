@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0792-binary-search) |
+| [2486-most-frequent-even-element](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [2486-most-frequent-even-element](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/2486-most-frequent-even-element) |
 ## Union Find
 |  |
 | ------- |
@@ -57,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [2486-most-frequent-even-element](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/2486-most-frequent-even-element) |
 <!---LeetCode Topics End-->
