@@ -1,23 +1,26 @@
 class Solution {
 public:
-    int mostFrequentEven(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        for (int i : nums) {
-            mp[i]++;
-        }
-        int maxi = INT_MIN;
-        int ans = -1;
-        for (auto it : mp) {
-            int freq = it.second;
-            int num = it.first;
-
-            if (num % 2 == 0) {
-                if (freq > maxi || (freq == maxi) && num < ans) {
-                    maxi = freq;
-                    ans = num;
+int mostFrequentEven(vector<int>& nums) {
+        map<int,int> mpp;
+        int val=INT_MIN;
+        int freq=0;
+        for(int i=0;i<nums.size();i++)
+        {
+            if(nums[i]%2==0)
+            {
+                mpp[nums[i]]++;
+                if(mpp[nums[i]]>freq || mpp[nums[i]]==freq && nums[i]<val)
+                {
+                    val=nums[i];
+                    freq=mpp[nums[i]];
                 }
-            }
+            } 
         }
-        return ans;
+       if(freq==0)
+       {
+        return -1;
+       }
+       else
+       return val;
     }
 };
