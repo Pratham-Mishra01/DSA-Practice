@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0792-binary-search) |
 | [2486-most-frequent-even-element](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/2486-most-frequent-even-element) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2486-most-frequent-even-element](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/2486-most-frequent-even-element) |
 ## Union Find
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0048-rotate-image) |
+| [0523-continuous-subarray-sum](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
