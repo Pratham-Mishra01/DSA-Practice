@@ -1,36 +1,59 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> result = {-1, -1};
-        int left = binarySearch(nums, target, true);
-        int right = binarySearch(nums, target, false);
-        result[0] = left;
-        result[1] = right;
-        return result;        
-    }
 
-    int binarySearch(vector<int>& nums, int target, bool isSearchingLeft) {
-        int left = 0;
-        int right = nums.size() - 1;
-        int idx = -1;
+    int firstpos(vector<int> &nums,int k)
+    {
+        int low=0,high=nums.size()-1;
         
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            
-            if (nums[mid] > target) {
-                right = mid - 1;
-            } else if (nums[mid] < target) {
-                left = mid + 1;
-            } else {
-                idx = mid;
-                if (isSearchingLeft) {
-                    right = mid - 1;
-                } else {
-                    left = mid + 1;
-                }
+        int first=-1;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            if(nums[mid]==k)
+            {
+                first=mid;
+                high=mid-1;
             }
+            else if(nums[mid]>k)
+            {
+                high=mid-1;
+            }
+            else
+            low=mid+1;
+
         }
+        return first;
+    }
+    int lastpos(vector<int> &nums,int k)
+    {
+        int low=0,high=nums.size()-1;
+        int last=-1;
         
-        return idx;
-    }    
+
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            if(nums[mid]==k)
+            {
+                last=mid;
+                low=mid+1;
+            }
+            else if(nums[mid]<k)
+            {
+                low=mid+1;
+            }
+            else
+            high=mid-1;
+        }
+        return last;
+    }
+    vector<int> searchRange(vector<int>& nums, int target) {
+        int n1=firstpos(nums,target);
+        int n2=lastpos(nums,target);
+        vector<int>ans;
+        ans.push_back(n1);
+        ans.push_back(n2);
+
+        return ans;
+    }
 };
