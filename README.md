@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0278-first-bad-version](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0046-permutations) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
