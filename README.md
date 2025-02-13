@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0792-binary-search) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2486-most-frequent-even-element](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/2486-most-frequent-even-element) |
@@ -70,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [2486-most-frequent-even-element](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/2486-most-frequent-even-element) |
 ## Backtracking
 |  |
@@ -92,8 +96,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pratham-Mishra01/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
